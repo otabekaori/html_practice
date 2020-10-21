@@ -1,0 +1,28 @@
+th{
+   width: 150px;
+}
+
+table{
+      border-collapse: collapse;
+}
+
+tr{
+   border-bottom: solid 1px lightgray;
+}
+
+th{
+   width: 150px;
+}
+
+td{
+   text-align: center;
+   padding-top: 20px;
+}
+
+.course{
+    width: 250px;
+}
+
+.capacity{
+    width: 80px;
+}
